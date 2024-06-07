@@ -1,0 +1,11 @@
+fitz==0.0.1.dev2
+Flask==2.2.5
+Flask_Cors==4.0.0
+huggingface_hub==0.22.2
+numpy==1.26.4
+pandas==2.2.2
+sentence_transformers==2.6.1
+spacy==3.7.4
+toml==0.10.2
+torch==2.3.0+cu118
+transformers==4.40.1
